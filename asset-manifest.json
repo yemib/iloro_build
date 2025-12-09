@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.32237bbe.css",
-    "main.js": "/static/js/main.486df88f.js",
+    "main.js": "/static/js/main.ef847d0f.js",
     "static/js/453.311b3dbc.chunk.js": "/static/js/453.311b3dbc.chunk.js",
     "static/media/King's Palace.jpg": "/static/media/King's Palace.ffc863a0e9e84204f8c7.jpg",
     "static/media/Isalu.jpg": "/static/media/Isalu.d1d75459458664afffb2.jpg",
@@ -31,11 +31,11 @@
     "static/media/logo.jpeg": "/static/media/logo.826a731804c9187ff1cd.jpeg",
     "index.html": "/index.html",
     "main.32237bbe.css.map": "/static/css/main.32237bbe.css.map",
-    "main.486df88f.js.map": "/static/js/main.486df88f.js.map",
+    "main.ef847d0f.js.map": "/static/js/main.ef847d0f.js.map",
     "453.311b3dbc.chunk.js.map": "/static/js/453.311b3dbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32237bbe.css",
-    "static/js/main.486df88f.js"
+    "static/js/main.ef847d0f.js"
   ]
 }
